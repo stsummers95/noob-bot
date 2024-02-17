@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "noob-bot",
+  "avatar": "daabiadsWWiqHdmlq",
+  "preferredColor": "green",
+  "language": "python.3",
+  "game": "tic-tac-toe",
+  "run": "python3 -u ./main.py"
+}
